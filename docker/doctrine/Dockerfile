@@ -1,4 +1,5 @@
 FROM php:7.1-alpine
+LABEL maintainer="cgrandval@darkmira.com"
 
 RUN docker-php-ext-install pdo_mysql
 
