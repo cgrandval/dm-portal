@@ -11,3 +11,10 @@ parameters:
     mailer_password: ~
 
     secret: ThisTokenIsNotSoSecretChangeIt
+    twitter_api_key: ~
+    twitter_api_secret: ~
+    twitter_api_access_token: ~
+    twitter_api_token_secret: ~
+    facebook_api_key: ~
+    facebook_api_secret: ~
+    facebook_callback: facebook_callback
